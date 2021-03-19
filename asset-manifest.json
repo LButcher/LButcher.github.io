@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lbutcher.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/lbutcher.github.io/static/js/main.732f281e.chunk.js",
+    "main.js.map": "/lbutcher.github.io/static/js/main.732f281e.chunk.js.map",
+    "runtime-main.js": "/lbutcher.github.io/static/js/runtime-main.01dbe1f6.js",
+    "runtime-main.js.map": "/lbutcher.github.io/static/js/runtime-main.01dbe1f6.js.map",
+    "static/js/2.d95b3de1.chunk.js": "/lbutcher.github.io/static/js/2.d95b3de1.chunk.js",
+    "static/js/2.d95b3de1.chunk.js.map": "/lbutcher.github.io/static/js/2.d95b3de1.chunk.js.map",
+    "static/js/3.760059c4.chunk.js": "/lbutcher.github.io/static/js/3.760059c4.chunk.js",
+    "static/js/3.760059c4.chunk.js.map": "/lbutcher.github.io/static/js/3.760059c4.chunk.js.map",
+    "index.html": "/lbutcher.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/lbutcher.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d95b3de1.chunk.js.LICENSE.txt": "/lbutcher.github.io/static/js/2.d95b3de1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lbutcher.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01dbe1f6.js",
+    "static/js/2.d95b3de1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.732f281e.chunk.js"
+  ]
+}
