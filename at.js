@@ -9,5 +9,8 @@ window.adobe=window.adobe||{},window.adobe.target=function(){"use strict";var t=
 
 //End No Custom JavaScript 
 window.targetGlobalSettings = {
-    cookieDomain: "lbutcher.github.io"
-}
+
+  cookieDomain: "https://lbutcher.github.io"
+
+};
+
