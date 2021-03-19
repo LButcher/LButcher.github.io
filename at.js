@@ -10,7 +10,7 @@ window.adobe=window.adobe||{},window.adobe.target=function(){"use strict";var t=
 //End No Custom JavaScript 
 window.targetGlobalSettings = {
 
-  cookieDomain: "https://lbutcher.github.io"
+  cookieDomain: "lbutcher.github.io"
 
 };
 
