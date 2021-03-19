@@ -1,10 +1,3 @@
-window.targetGlobalSettings = {
-
-  cookieDomain: "lbutcher.github.io"
-
-};
-
-
 //No Custom JavaScript 
 /**
  * @license
