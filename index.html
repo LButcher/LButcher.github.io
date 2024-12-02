@@ -73,10 +73,12 @@
 
       // Set the countdown end date
       const endDate = new Date();
-      endDate.setDate(0); // Feb 1
+      endDate.setDate(1); // Feb 1
       endDate.setMonth(1);
       endDate.setYear(2025);
       endDate.setHours(0);
+      endDate.setMinutes(0);
+      endDate.setSeconds(0);
 
       const updateTimer = () => {
         const now = new Date();
